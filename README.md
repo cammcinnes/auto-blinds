@@ -13,3 +13,7 @@ Materials used:
 - Cardboard, hot glue and wire
 - 5V Relay
 
+
+
+https://github.com/cammcinnes/auto-blinds/assets/88452661/bb33076d-2f01-4a49-ab67-fd8d188d8bd9
+
